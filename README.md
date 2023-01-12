@@ -1,2 +1,2 @@
 # status-reports
-Archive for tracking status of Orgpedia
+Repository for tracking status of Orgpedia
